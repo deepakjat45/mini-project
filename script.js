@@ -28,7 +28,7 @@ const questions = [
     question: "Which keyword is used to declare a variable in JavaScript?",
     options: ["let", "int", "string"],
     answer: 0
-  }
+  } 
 ];
 
 let currentQuestion = 0;
